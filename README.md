@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# 🍒 Food-Zone
+Food-Zone is a dynamic food delivery application developed with ReactJS and Redux, utilizing Firebase for authentication, storage, and Firestore data management. Styled with Material UI and Tailwind CSS, the app offers an aesthetically pleasing and user-friendly interface. Featuring seamless cart functionality, users enjoy an efficient ordering process. Moreover, an admin login with an "add item" option empowers the website owner to dynamically update the platform's offerings.
+    
+## Tech Stack
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React, Redux, Firebase, Material UI, Tailwind CSS
 
-## Available Scripts
 
-In the project directory, you can run:
+## Installation
 
-### `yarn start`
+Install my-project with npm
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+## Run Locally
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Clone the project
 
-### `yarn test`
+```bash
+  git clone https://github.com/imnitesh18/FoodZone/
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Go to the project directory
 
-### `yarn build`
+```bash
+  cd my-project
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Install dependencies
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+  npm install
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Start the server
 
-### `yarn eject`
+```bash
+  npm run start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Features
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Developed a comprehensive food delivery app using ReactJS and Redux.
+- Integrated Firebase for authentication, storage, and  Firestore data management.
+- Styled the app with Material UI and Tailwind CSS for a polished user interface.
+- Implemented seamless shopping experience with cart functionality for the streamlined ordering process give me project summary
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Screenshots
 
-## Learn More
+### Homepage :
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![App Screenshot](https://github.com/imnitesh18/FoodZone/assets/71972708/c2555ca8-f29e-45c5-accc-8415a43c75f8)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Firebase:(User Authentication) :
 
-### Code Splitting
+![App Screenshot](https://github.com/imnitesh18/FoodZone/assets/71972708/71da55d5-b0ee-43cd-8ea3-94c43634fddb)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Cart :
 
-### Analyzing the Bundle Size
+![App Screenshot](https://github.com/imnitesh18/FoodZone/assets/71972708/185dc8ad-bf91-4570-8be3-3b7da15e9679)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Admin Panel :
 
-### Making a Progressive Web App
+![App Screenshot](https://github.com/imnitesh18/FoodZone/assets/71972708/c79744b9-0cae-4154-b509-7592b6854ea4)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
