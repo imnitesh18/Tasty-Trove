@@ -1,5 +1,5 @@
-# 🍒 Food-Zone
-Food-Zone is a dynamic food delivery application developed with ReactJS and Redux, utilizing Firebase for authentication, storage, and Firestore data management. Styled with Material UI and Tailwind CSS, the app offers an aesthetically pleasing and user-friendly interface. Featuring seamless cart functionality, users enjoy an efficient ordering process. Moreover, an admin login with an "add item" option empowers the website owner to dynamically update the platform's offerings.
+# 🍒 Tasty-Trove
+Tasty-Trove is a dynamic food delivery application developed with ReactJS and Redux, utilizing Firebase for authentication, storage, and Firestore data management. Styled with Material UI and Tailwind CSS, the app offers an aesthetically pleasing and user-friendly interface. Featuring seamless cart functionality, users enjoy an efficient ordering process. Moreover, an admin login with an "add item" option empowers the website owner to dynamically update the platform's offerings.
     
 ## Tech Stack
 
@@ -20,7 +20,7 @@ Install my-project with npm
 Clone the project
 
 ```bash
-  git clone https://github.com/imnitesh18/FoodZone/
+  git clone https://github.com/imnitesh18/Tasty-Trove/
 ```
 
 Go to the project directory
